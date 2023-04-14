@@ -1,0 +1,5 @@
+<?php
+date_default_timezone_set ('UTC');
+$lat = 68,43499;
+$lon = 17,42;
+$Date = new DateTime('202-01-01')
